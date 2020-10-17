@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="430b23f2-7b00-42e2-9646-2cd1ba48e2db" name="Default Changelist" comment="change port">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid-location-api/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/covid-location-api/src/app.controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/covid-location-api/src/app.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/covid-location-api/src/app.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +30,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1izwxIjf1ORn9yeiKjz8IUvnpMh" />
@@ -43,6 +50,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Users\david\WebstormProjects\covid-location-api\covid-location-api\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602923973040</updated>
       <workItem from="1602923974281" duration="36000" />
-      <workItem from="1602924040629" duration="894000" />
+      <workItem from="1602924040629" duration="2821000" />
     </task>
     <task id="LOCAL-00001" summary="prueba inicial">
       <created>1602924245759</created>
@@ -83,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602924857998</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change port">
+      <created>1602924948730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602924948730</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,10 +125,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="960" y="436" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1602923996990" />
-    <state x="872" y="414" key="Vcs.Push.Dialog.v2" timestamp="1602924859244">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1602925100397">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="414" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1602924859244" />
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1602925100397" />
+    <state x="872" y="414" key="Vcs.Push.Dialog.v2" timestamp="1602924949917">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="414" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1602924949917" />
     <state x="1097" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602924534063">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

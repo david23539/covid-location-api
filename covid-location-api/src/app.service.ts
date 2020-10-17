@@ -2,7 +2,15 @@ import { Injectable } from '@nestjs/common';
 
 @Injectable()
 export class AppService {
-  getHello(): string {
-    return 'Hello World NestJS!';
+  getAllRanking(order: string): string[] {
+    return [];
+  }
+  
+  countCasePositivesByLocation(locationId: string): number {
+      return 0;
+  }
+  
+  countCaseCureByLocation(locationId: string): number {
+      return 0;
   }
 }
